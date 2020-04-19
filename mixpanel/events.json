@@ -1,0 +1,21 @@
+[
+    {
+        "event": "Play",
+        "properties": {
+            "date": "2017-04-11",
+            "user": "justin",
+            "location": "SF",
+            "device": "iPhone"
+        }
+    },
+    {
+        "event": "Play",
+        "properties": {
+            "date": "2017-04-11",
+            "user": "bob",
+            "location": "SF",
+            "browser": "Chrome"
+        }
+    }
+] 
+
